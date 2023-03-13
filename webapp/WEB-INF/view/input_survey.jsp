@@ -15,7 +15,7 @@ String userName = userInfoOnSession.getUserName();
     <title>アンケートフォーム</title>
   </head>
   <body>
-    <h2>暮らし改善アンケートフォーム</h2>
+    <h2>アンケートフォーム</h2>
     <form action="SaveSurvey" method="post">
       <p>名前：<%= userName %>
         <input type="hidden" name="NAME" value="<%= userName %>">
