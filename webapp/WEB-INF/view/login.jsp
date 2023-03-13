@@ -5,7 +5,7 @@
 	<title>ログイン画面</title>
 </head>
 <body>
-    <h2>ログイン画面</h2>
+    <h1>ユーザーログイン画面</h1>
     <form action="ExecuteLogin" method="post">
       <p>ユーザーID：<br>
         <input type="text" name="USER_ID" maxlength="20" id="ID_USER_ID">
