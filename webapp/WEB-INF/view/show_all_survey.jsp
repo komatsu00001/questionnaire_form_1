@@ -76,7 +76,7 @@ for (int i = 0; i < list.size(); i++) {
 }
 %>
     </table>
-    <a href="<%= request.getContextPath() %>>/InputSurvey">回答画面に戻る</a>
+    <a href="<%= request.getContextPath() %>/InputSurvey">回答画面に戻る</a>
   </body>
 </html>
 <%!
