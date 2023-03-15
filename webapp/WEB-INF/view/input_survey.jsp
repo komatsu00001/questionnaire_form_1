@@ -24,8 +24,8 @@ String userName = userInfoOnSession.getUserName();
         <input type="number" name="AGE" maxlength="3" id="ID_AGE">
       </p>
       <p>性別：
-        <input type="radio" name="SEX" value="1" checked>オス
-        <input type="radio" name="SEX" value="2">メス
+        <input type="radio" name="SEX" value="1" checked>男
+        <input type="radio" name="SEX" value="2">女
       </p>
       <p>満足度：
         <select name="SATISFACTION_LEVEL">
